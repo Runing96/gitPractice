@@ -15,3 +15,8 @@ git remote add origin yougithubAdress(your profile->具体的仓库)
 
 4.从远程仓库拉取分支：
 git pull origin master
+
+5.将而本地文件推送到gitHub上：
+git add . 
+git commit -m '描述语'
+git push origin master
