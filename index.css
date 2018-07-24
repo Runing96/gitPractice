@@ -1,0 +1,11 @@
+div{
+    width: 100px;
+    height: 100px;
+    background: rgb(221, 42, 42);
+}
+
+input{
+    width: 100px;
+    height: 100px;
+    border: 1px dotted yellow;
+}
